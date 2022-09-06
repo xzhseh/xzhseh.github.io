@@ -1,0 +1,26 @@
+baseURL = "http://xzhseh.github.io/"
+copyright = "© Michael Xu"
+languageCode = "en-us"
+title = "Michael Xu"
+theme = "hugo-ink"
+
+# Code Highlight
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate = 10 # articales per page
+
+[params]
+	subtitle = "「An Creator」"
+
+	avatar = "https://avatars.githubusercontent.com/u/91381303"
+
+	featherIconsCDN = true
+
+	mode = "light"
+
+
+[[params.social]]
+	icon = "github"
+	name = "Github"
+	url = "https://github.com/xzhseh"
