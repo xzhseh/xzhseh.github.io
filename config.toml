@@ -49,4 +49,6 @@ paginate = 10 # articales per page
 	url = "/tags"
 	weight = 4
 
+[taxonomies]
+   tag = "tags"
 
