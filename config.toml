@@ -17,6 +17,8 @@ paginate = 10 # articales per page
 
 	featherIconsCDN = true
 
+	favicon = "/favicon-32×32.png"
+
 	mode = "auto" # automatically change the mode
 
 [[params.social]]
